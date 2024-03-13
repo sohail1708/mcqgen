@@ -1,0 +1,1 @@
+This is the first application i created using the generative AI course
