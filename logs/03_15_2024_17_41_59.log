@@ -1,0 +1,15 @@
+[2024-03-15 17:42:22,103] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:42:22,933] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:43:39,002] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:43:39,866] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:44:19,415] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+[2024-03-15 17:44:19,417] 1007 openai._base_client - INFO - Retrying request to /completions in 0.904715 seconds
+[2024-03-15 17:44:20,425] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+[2024-03-15 17:44:20,426] 1007 openai._base_client - INFO - Retrying request to /completions in 1.670435 seconds
+[2024-03-15 17:44:22,214] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+[2024-03-15 17:44:56,837] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:44:56,939] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 429 Too Many Requests"
+[2024-03-15 17:44:56,940] 1007 openai._base_client - INFO - Retrying request to /completions in 20.000000 seconds
+[2024-03-15 17:45:18,135] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:45:50,282] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
+[2024-03-15 17:45:51,512] 1026 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/completions "HTTP/1.1 200 OK"
