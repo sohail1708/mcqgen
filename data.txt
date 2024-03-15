@@ -12,3 +12,5 @@ In 2020, some major companies and institutions started to acquire bitcoin: Micro
 In February 2021, Bitcoin's market capitalization reached $1 trillion for the first time.[44] In November 2021, the Taproot soft-fork upgrade was activated, adding support for Schnorr signatures, improved functionality of smart contracts and Lightning Network.[45] Before, Bitcoin only used a custom elliptic curve with the ECDSA algorithm to produce signatures.[46]: 101  In September 2021, Bitcoin became legal tender in El Salvador, alongside the US dollar.[4] In October 2021, the first bitcoin futures ETF, called BITO, from ProShares was approved by the SEC and listed on the Chicago Mercantile Exchange.[47]
 In May and June 2022, the bitcoin price fell following the collapses of TerraUSD, a stablecoin,[48] and the Celsius Network, a cryptocurrency loan company.[49][50]
 In 2023, ordinals, non-fungible tokens (NFTs) on Bitcoin, went live.[51] In January 2024, the first 11 US spot bitcoin exchange-traded funds (ETFs) began trading, offering direct exposure to bitcoin for the first time on American stock exchanges.[52][53]
+
+some data

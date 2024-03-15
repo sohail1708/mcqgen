@@ -47,3 +47,4 @@ def get_table_data(quiz_str):
         traceback.print_exception(type(e), e, e.__traceback__)
         return False
 
+

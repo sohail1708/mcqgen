@@ -84,6 +84,7 @@ if button and uploaded_file is not None and mcq_count and subject and tone:
                     st.error("Error in the table data")
             else:
                 st.write(response)
+                
             
 
 
